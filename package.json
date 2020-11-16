@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/olliejames97/streema-scraper#readme",
   "dependencies": {
+    "@types/cheerio": "^0.22.22",
     "axios": "^0.21.0",
     "cheerio": "^1.0.0-rc.3",
     "puppeteer": "^5.4.1"
